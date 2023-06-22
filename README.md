@@ -5,7 +5,8 @@
 This program is a League of Legends account checker supporting multi threading with multiple features including the ability to run checks on multiple accounts, export all account information to a folder, and display comprehensive details about each account, including purchase dates and more.
 
 # This file is to large to put here so download link is here
-https://drive.google.com/file/d/1_XPoqupnwgA1QFSVn_ASYvivgrRf6gUx/view?usp=drive_link
+dw: https://drive.google.com/file/d/1_XPoqupnwgA1QFSVn_ASYvivgrRf6gUx/view?usp=drive_link
+virus total: https://www.virustotal.com/gui/file/9317ce14b48817e2e3b8e655ae4bd3fbb2ac5a806f6408b5bfaa3747b6f3e921?nocache=1
 
 *Please be aware that this program is not 100% stable and can rarely catch unknown exceptions.*
 
